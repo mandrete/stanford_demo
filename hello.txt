@@ -1,5 +1,5 @@
 Hello world
-I am doing bootcamp
+I am doing a bootcamp at Stanford
 
 Hello again
 I am making this edit from github

@@ -3,3 +3,6 @@ I am doing bootcamp
 
 Hello again
 I am making this edit from github
+
+Hola 
+I am making this from terminal
